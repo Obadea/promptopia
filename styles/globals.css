@@ -168,3 +168,15 @@
 .flex-between {
   @apply flex justify-between items-center;
 }
+
+.scroll-to-top-button {
+  text-align: left;
+  background-color: rgba(255, 186, 11, 0.411);
+  position: fixed;
+  bottom: 10%;
+  right: 10%;
+  z-index: 10;
+  padding: 10px;
+  border-radius: 15px;
+  backdrop-filter: blur(3px);
+}

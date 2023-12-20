@@ -1,24 +1,29 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+# Promptopia
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Welcome to Promptopia, a social app where creativity flourishes! Share, discover, and engage with prompts created by users. Express your imagination, edit your prompts, and dive into a world of endless inspiration.
 
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
- 
-In this video, you'll learn:
-- Next.js 13 App Folder Structure
-- Next.js 13 Client Components vs Server Components
-- Next.js 13 File-based Routing (including dynamic and nested routes)
-- Next.js 13 page, layout, loading, and error Special Files
-- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
-- Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
+## Features
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+- **Create and Share Prompts:** Post your creative prompts for others to explore and respond to.
+
+- **Edit and Delete:** Have the freedom to modify or remove your posted prompts.
+
+- **Search by Tags or Keywords:** Easily find prompts based on specific tags or keywords, making it simple to discover content tailored to your interests.
+
+- **Endless Creativity:** Immerse yourself in a platform designed to spark creativity. More exciting features are on the horizon!
+
+# View Project
+
+[Visit Promptopia Website](https://obadea-project-promptopia.vercel.app/)
+
+# Preview
+
+![Local Image](public/assets/images/promptopia_preview.jpeg)
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Obadea/project_promptopia.git
+   cd promptopia
+   ```
